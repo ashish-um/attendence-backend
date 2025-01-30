@@ -1,0 +1,9 @@
+greymatter0603
+MzZdVwkkIuiUcnqL
+
+mongodb+srv://greymatter0603:MzZdVwkkIuiUcnqL@cluster0.tpbk4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Nzk4ZDdkN2M5YTM5YWI5ZTQzOWQzMWMiLCJpYXQiOjE3MzgwNzAwMjl9.PkmVgNOssdviSZiHhy8QYwxAqAPN1pg6eIpoaEBg0R0"
+}
